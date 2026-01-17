@@ -1,6 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=2000&pause=2000&color=41B883&vCenter=true&width=210&height=35&lines=IliHanSoLow)](https://git.io/typing-svg)
 
-## `📊` STATISTICS
 <div align="center">
 
 <!--I am quite annoyed by these fancy stat-viewers not working so here is a picture of my cat. -->
